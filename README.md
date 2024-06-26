@@ -25,7 +25,7 @@ This is a dynamic Currency Converter application developed using HTML, CSS, and 
 
 - **Currency API:** Used to retrieve exchange rates for various currencies.
 
-Endpoint:
+Endpoint: <br>
 /currencies/{currencyCode}
 ```bash
 https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json
